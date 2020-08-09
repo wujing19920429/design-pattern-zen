@@ -1,0 +1,16 @@
+/.idea/checkstyle-idea.xml
+/.idea/compiler.xml
+/.idea/dbnavigator.xml
+/.idea/design-pattern-zen.iml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/pom.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/design-pattern-zen-1.0-SNAPSHOT.jar
+/target/classes/com/wj/subject/IHanFeiZi.class
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
